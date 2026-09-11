@@ -1,4 +1,8 @@
-# Hi 👋, I'm Vidushi Srivastava
+<h1 align="center">Hi 👋, I'm Vidushi Srivastava</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;C%2B%2B+DSA+Learner" alt="Typing SVG" />
+</p>
 
 ### Full Stack Developer | Data Analytics Enthusiast | C++ DSA Learner
 
