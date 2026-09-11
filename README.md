@@ -1,92 +1,79 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey, I'm Vidushi Srivastava
+# Hi 👋, I'm Vidushi Srivastava
 
-<div align="center">
+### Full Stack Developer | Data Analytics Enthusiast | C++ DSA Learner
 
-### Full Stack Developer • Data Analytics Explorer • C++ DSA Enthusiast
-
-*I enjoy building products that solve real problems—from smart agriculture to analytics dashboards.*
-
-</div>
+I'm a final-year Computer Engineering student passionate about building clean, scalable, and user-friendly web applications. I enjoy combining development with data-driven thinking to create solutions that solve real-world problems.
 
 ---
 
-## ✦ A little about me
+## 🌸 About Me
 
-```cpp
-class Vidushi {
-public:
-    string degree = "B.Tech Computer Engineering";
-    string graduating = "2027";
-    vector<string> interests = {
-        "Full Stack Development",
-        "Data Analytics",
-        "Problem Solving"
-    };
-
-    string currentGoal() {
-        return "Build scalable software & become an SDE";
-    }
-};
-```
-
-- 🌱 Currently learning **Node.js, Express & Backend Development**
-- 💻 I build responsive web applications using **React & JavaScript**
-- 📊 Exploring how data can drive better decisions through analytics
-- 🧩 Regularly practicing **DSA in C++** for placement preparation
+- 🎓 B.Tech in Computer Engineering (Graduating 2027)
+- 💻 Full Stack Developer with a strong interest in frontend development
+- 📊 Exploring Data Analytics, SQL, and visualization
+- 🧩 Regularly solving Data Structures & Algorithms in C++
+- 🌱 Currently learning Node.js, Express.js, and backend development
+- 🎯 Aspiring Software Development Engineer (SDE)
 
 ---
 
-## ⚙️ Tech Arsenal
+## 🛠️ Tech Stack
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Database**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🚀 Things I've Built
+## ✨ Featured Projects
 
-| Project | What it does |
-|---------|--------------|
-| 🌾 **SamriddhKheti** | AI-powered farming assistant with crop & irrigation recommendations |
-| 💧 **JalVaani** | Smart bilingual irrigation planner using weather forecasts |
-| 📈 **Metric Mesh** | Social media analytics dashboard with interactive insights |
+### 🌾 SamriddhKheti
+An AI-powered smart farming platform offering crop recommendations, irrigation planning, soil analysis, and government scheme assistance.
 
----
+### 💧 JalVaani
+A bilingual irrigation planner that generates weather-based 7-day irrigation schedules to promote efficient water usage.
 
-## 📌 Current Mission
-
-- ✅ Strengthening DSA for placements
-- ⚡ Building full-stack MERN projects
-- 📊 Learning Power BI & advanced SQL
-- 🌍 Contributing more consistently on GitHub
+### 📈 Metric Mesh
+A social media analytics dashboard that transforms engagement data into meaningful visual insights.
 
 ---
 
-## 🌐 Let's Connect
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vidushi-srivastava-19401a327)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Vidushi-1012)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vidushi-srivastava-19401a327)
+
+---
 
 <div align="center">
 
-**“Every project starts as an idea; every commit brings it closer to reality.” ✨**
+### Thanks for visiting my profile! 💜
+
+*Always learning, always building.*
 
 </div>
