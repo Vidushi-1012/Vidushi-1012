@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vidushi Srivastava</h1>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Vidushi Srivastava
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;C%2B%2B+DSA+Learner" alt="Typing SVG" />
